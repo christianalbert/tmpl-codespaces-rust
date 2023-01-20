@@ -9,6 +9,7 @@ apt-get install -y \
   sudo \
   vim \
   build-essential \
+  pkg-config \
   openssl
 
 ## Install rustup and common components
